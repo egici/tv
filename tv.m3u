@@ -1,13 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="Ulusal Kanal" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_UlusalKanal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" group-title="Haber",Ulusal Kanal 
-https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
-
 #
-#EXTINF:-1 tvg-name="Tele 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_Tele1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528" group-title="Haber",Tele 1
-https://ythls-v2.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
-
 
 #EXTINF:-1 tvg-name="Behzat Ç." tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_BehzatC" tvg-logo="http://assets.tvcdn.net/842192cc-760c-41d6-ba34-78cf50bb6d14.png" group-title="İçerik",Behzat Ç.
 http://stream.tvcdn.net/dizi-youtube/behzat-c.m3u8
@@ -16,65 +10,44 @@ http://stream.tvcdn.net/dizi-youtube/behzat-c.m3u8
 
 
 
-
-
-# * » Rahatlatıcı « * #
-#EXTINF:-1 
-
-
-#EXTM3U
-#EXTINF:0,TR: TRT 1 HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136414
 #EXTINF:0,TR: TRT 1 UHD 1080p
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/216394
 #EXTINF:0,TR: TRT TURK FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136416
 #EXTINF:0,TR: TRT 4K FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136417
-#EXTINF:0,TR: ATV HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136418
+#
 #EXTINF:0,TR: ATV FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136419
-#EXTINF:0,TR: SHOW TV HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136420
+#
 #EXTINF:0,TR: SHOW TV FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136421
-#EXTINF:0,TR: STAR TV HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136423
+#
 #EXTINF:0,TR: STAR TV FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136422
-#EXTINF:0,TR: NOW TV HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136424
+#
 #EXTINF:0,TR: NOW TV FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136425
-#EXTINF:0,TR: KANAL D HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136426
+#
 #EXTINF:0,TR: KANAL D FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136427
-#EXTINF:0,TR: TV8 HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136428
+#
 #EXTINF:0,TR: TV8 FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136429
 #EXTINF:0,TR: A2 FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136435
-#EXTINF:0,5" tvg-name="TR: TV8.5 HD" tvg-logo="https://canlitv.center/channels/tv8-5.png" group-title="TR: ULUSAL" - TR: TV8.5 HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136436
-#EXTINF:0,5" tvg-name="TR: TV8.5 FHD" tvg-logo="https://canlitv.center/channels/tv8-5.png" group-title="TR: ULUSAL" - TR: TV8.5 FHD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136437
+#
 #EXTINF:0,TR: TEVE 2 FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136438
-#EXTINF:0,TR: TEVE 2 HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136439
+#
 #EXTINF:0,TR: SHOW MAX HD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136444
 #EXTINF:0,TR: TRT 2 FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136447
-#EXTINF:0,TR: HABERTURK HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136595
+#
 #EXTINF:0,TR: HABERTURK FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136596
-#EXTINF:0,TR: NTV HABER HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136597
+#
 #EXTINF:0,TR: NTV HABER FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136598
 #EXTINF:0,TR: CNN TURK FHD
@@ -85,8 +58,7 @@ http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136602
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136625
 #EXTINF:0,TR: A HABER FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136604
-#EXTINF:0,TR: MECLIS TV
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136626
+#
 #EXTINF:0,TR: KRT TV FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136610
 #EXTINF:0,TR: TV100 FHD
@@ -95,40 +67,7 @@ http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136611
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136622
 #EXTINF:0,TR: TRT KURDI FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136623
-#EXTINF:0,TR: BEIN SPORTS 1 4K 2160P
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/219017
-#EXTINF:0,TR: BEIN SPORTS 2 UHD &UYDU ALMANYA&
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136533
-#EXTINF:0,TR: BEIN SPORTS 4 UHD  &UYDU ALMANYA&
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136538
-#EXTINF:0,TR: BEIN  SPORTS MAX HD 1 (720P)
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136542
-#EXTINF:0,TR: BEIN SPORTS MAX HD 2 (720P)
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136543
-#EXTINF:0,TR: EXXEN 1 FHD (MAC SAATI)
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/216313
-#EXTINF:0,TR: S SPORT FHD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136560
-#EXTINF:0,TR: S SPORT 2 HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136561
-#EXTINF:0,TR: S SPORT PLUS+
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136562
-#EXTINF:0,TR: S SPORT PLUS+ 1
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136563
-#EXTINF:0,TR: S SPORT PLUS+ 2
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136564
-#EXTINF:0,TR: S SPORT PLUS+ 3
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136565
-#EXTINF:0,TR: S SPORT PLUS+ 4
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136566
-#EXTINF:0,TR: S SPORT PLUS+ 5
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136567
-#EXTINF:0,TR: S SPORT PLUS+ 6
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/213101
-#EXTINF:0,TR: S SPORT PLUS+ 7
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/213102
-#EXTINF:0,TR: TRT SPOR 2 FHD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136579
+#
 #EXTINF:0,TR: TRT SPOR YILDIZ
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136580
 #EXTINF:0,TR: TIVIBU SPOR-1 HD
@@ -137,26 +76,8 @@ http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136554
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136574
 #EXTINF:0,TR: BIZIMKILER TV
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/128940
-#EXTINF:0,TR: TONS VIZYON TV 1
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/127046
-#EXTINF:0,TR: TONS VIZYON TV 2
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/127047
-#EXTINF:0,TR: TONS VIZYON TV 3
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/127048
-#EXTINF:0,TR: TONS VIZYON TV 4
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/127049
-#EXTINF:0,TR: TONS VIZYON TV 5
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/127050
-#EXTINF:0,TR: TONS KEMAL SUNAL TV
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/129703
-#EXTINF:0,TR: beIN BOXOFFICE-1-HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136627
-#EXTINF:0,TR: beIN BOXOFFICE-2-HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136628
-#EXTINF:0,TR: beIN BOXOFFICE-3-HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136629
-#EXTINF:0,TR: MAX ACTION HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/214584
+#
+#
 #EXTINF:0,TR: MAX GOLD HD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/214585
 #EXTINF:0,TR: beIN MOVIES ACTION HD
@@ -188,34 +109,7 @@ http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136655
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136658
 #EXTINF:0,TR: PLATIN WESTERN TV
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/213085
-#EXTINF:0,TR: Cine Gold Aksiyon 1 HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136660
-#EXTINF:0,TR: Cine Gold Macera HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136661
-#EXTINF:0,TR: Cine Gold Korku HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136662
-#EXTINF:0,TR: Cine Gold Komedi HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136663
-#EXTINF:0,TR: Cine Gold Animasyon HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136664
-#EXTINF:0,TR: Cine Gold Dram HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136665
-#EXTINF:0,TR: Cine Gold Bilim Kurgu HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136666
-#EXTINF:0,TR: PRIMEBOX AKSIYON 1 HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136667
-#EXTINF:0,TR: PRIMEBOX AKSIYON 2 HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136668
-#EXTINF:0,TR: PRIMEBOX KOMEDI HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136669
-#EXTINF:0,TR: PRIMEBOX KORKU HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136670
-#EXTINF:0,TR: PRIMEBOX TURK 1 HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136671
-#EXTINF:0,TR: PRIMEBOX TURK 2 HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136672
-#EXTINF:0,TR: SENER SEN YESILCAM
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136728
+#
 #EXTINF:0,TR FUNMAX JACKIE CHAN HD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/223121
 #EXTINF:0,TR: NATIONAL GEOGRAPHIC FHD
@@ -232,16 +126,14 @@ http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136772
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136773
 #EXTINF:0,TR: TLC HD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136774
-#EXTINF:0,TR: HISTORY HD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136778
+#
 #EXTINF:0,TR: HISTORY FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136779
 #EXTINF:0,TR: INSIGHT TV FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136783
 #EXTINF:0,TR: FIGHT BOX FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136784
-#EXTINF:0,TR: FX FHD
-http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/136786
+#
 #EXTINF:0,TR: LOVE NATURE FHD
 http://sydd.ikb13.com:8080/mehmet01x17tr/13072023trx22/213632
 #EXTINF:0,TR: BBC EARTH FHD
